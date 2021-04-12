@@ -16,4 +16,6 @@
 
 ## Data Modeling
 
+![alt text](https://github.com/darienlizano/Titanic-Surviver-Predictor-/blob/main/Titanitc_Decision_Tree.png)
+
 ## Programming
