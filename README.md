@@ -12,7 +12,7 @@
 
 ## Data Exploration
 
-!(https://github.com/darienlizano/Titanic-Surviver-Predictor-/blob/main/Titantic_Femalesover18_graph.png)
+![alt text](https://github.com/darienlizano/Titanic-Surviver-Predictor-/blob/main/Titantic_Femalesover18_graph.png)
 
 ## Data Modeling
 
